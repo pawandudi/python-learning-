@@ -6,4 +6,4 @@ hourses=[2.0, 2.0, 2.0]
 
 pawan
 subject=['python', 'math', 'eng',"jhatu"] 
-hourses=[2.0, 3.0, 2.0]
+hourses=[2.0, 3.0, 2.00]
